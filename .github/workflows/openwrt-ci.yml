@@ -11,7 +11,7 @@ on:
   schedule:
     - cron: 0 20 * * *
 
-permissions:
+  permissions:
   contents: read
 
 jobs:
